@@ -31,8 +31,6 @@ int LinkedList<T>::size() const
 {
 	size = m_size;
 
-	return size;
-
 	return(0);
 }
 
