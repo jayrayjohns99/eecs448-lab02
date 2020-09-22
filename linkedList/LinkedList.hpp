@@ -1,6 +1,6 @@
 /**
 *	@author Jacob Johnston
-*	@date 9/6/2020
+*	@date 9/22/2020
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
